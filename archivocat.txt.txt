@@ -1,2 +1,7 @@
 Agregar archivo agregar en el staging area
+<<<<<<< HEAD
 Mensaje de prueba para realizar cambio en rama
+=======
+Modificacion en el archivo para el Branch primerramacat
+Tercera modificacion de prueba
+>>>>>>> primerramacat
